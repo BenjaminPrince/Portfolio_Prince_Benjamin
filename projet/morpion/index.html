@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morpion</title>
+    <link rel="stylesheet" href="morpion.js">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- titre "jeu de morpion" = "gomukunarabe"-->
+    <section class="title">
+  <h1>ごもくならべ</h1>
+    </section>
+
+    <section class="container">
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div>
+        <div class="box"onclick="cliquersurunebox(this)"></div> 
+    </section>
+
+    <section>
+        <button onclick="reset()" value="やりなおす(reset)">やりなおす(reset)</button>
+    </section>
+
+    <section>
+        <div class="box_timer">
+        <button id="restart"> さいしどうする (Restart)</button>
+        <button id="stop_timer"> たいほする (Stop)</button>
+        <button id="start_timer"> たちあげる (Start)</button>
+        <p> クロノメーター (kuronomeitaa) : <span= id="timer" > <br>
+       
+    </div>
+    </section>
+
+</div>
+    
+    
+    <script src="morpion.js"></script>
+</body>
+</html>

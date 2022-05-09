@@ -107,6 +107,20 @@
   <p class="dates">Dates 2020 - 2021</p> 
 </div>
 </div>
+<!-- -----------------------------------------------------------------------------------
+                                    projet 4
+----------------------------------------------------------------------------------- -->
+<div class="card">
+  <a class="card-image" target="_blank" href="https://audio-players.herokuapp.com/">
+  <img  src="./src/image/audio.jpg" /></a>
+<div class="project" >
+    <h4>Audio player (en cours) </h4>
+    <p class="description">
+      html,css,javascript,php,json.
+    </p>
+    <p class="dates">2022</p>
+  </div>
+</div>
 
 
 

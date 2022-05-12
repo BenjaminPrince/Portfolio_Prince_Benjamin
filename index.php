@@ -81,18 +81,18 @@
 <!-- -----------------------------------------------------------------------------------
                                     projet 2
 ----------------------------------------------------------------------------------- -->
-
 <div class="card">
-  <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/Drumpad/index.html">
-    <img src="./src/image/drumpad.png" /></a>
-<div class="project">
-  <h4><a href="http://127.0.0.1:5500/Drumpad/index.html"> DRUMPAD</a></h4>
-  <p class="description">
-    html, css, javascript ,front-end, projet musical.
-  </p>
-  <p class="dates">2021</p>
-</div>  
+  <a class="card-image" target="_blank" href="https://audio-players.herokuapp.com/">
+  <img  src="./src/image/audio.jpg" /></a>
+<div class="project" >
+    <h4>Audio player </h4>
+    <p class="description">
+      html,css,javascript,php,json.
+    </p>
+    <p class="dates">2022</p>
+  </div>
 </div>
+
 <!-- -----------------------------------------------------------------------------------
                                     projet 3
 ----------------------------------------------------------------------------------- -->
@@ -110,18 +110,18 @@
 <!-- -----------------------------------------------------------------------------------
                                     projet 4
 ----------------------------------------------------------------------------------- -->
-<div class="card">
-  <a class="card-image" target="_blank" href="https://audio-players.herokuapp.com/">
-  <img  src="./src/image/audio.jpg" /></a>
-<div class="project" >
-    <h4>Audio player (en cours) </h4>
-    <p class="description">
-      html,css,javascript,php,json.
-    </p>
-    <p class="dates">2022</p>
-  </div>
-</div>
 
+<div class="card">
+  <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/Drumpad/index.html">
+    <img src="./src/image/drumpad.png" /></a>
+<div class="project">
+  <h4><a href="http://127.0.0.1:5500/Drumpad/index.html"> DRUMPAD</a></h4>
+  <p class="description">
+    html, css, javascript ,front-end, projet musical.
+  </p>
+  <p class="dates">2021</p>
+</div>  
+</div>
 
 
   </div>

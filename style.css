@@ -89,8 +89,8 @@ a.button {
     color: var(--btn);
     text-shadow: 0 0.04em 0.04em rgba(255, 255, 255, 0.253);
     transition: all 0.2s;
-	text-align: center;
-	margin-left: auto;
+  	text-align: center;
+  	margin-left: auto;
     margin-right: auto;
   }
   
@@ -136,7 +136,7 @@ a.button {
 
 .card {
 	display: inline-block;
-	width: 90%;
+	width: 100%;
 	max-width: 15rem;
 	margin: 1rem;
 	font-size: 1rem;
@@ -168,10 +168,12 @@ a.button {
 	
 }
 
-.card  img{
+.card img{
 	border-radius: 2px;
-  width : 150px;
-  height : 150px;
+  /* min-width : 224px; */
+  min-height : 224px;
+  /* object-fit: contain; */
+  overflow: hidden;
 }
 
 .projects{

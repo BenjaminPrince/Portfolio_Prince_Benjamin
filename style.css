@@ -118,10 +118,10 @@ a.button {
 	display: flex;
 	flex-wrap: wrap;
 }
-.page-content .projects-section .project {
+/* .page-content .projects-section .project {
 	margin-right: 20px;
 	max-width: 195px;
-}
+} */
 .page-content .projects-section .project h4 {
 	margin: 0;
 }
@@ -136,7 +136,7 @@ a.button {
 
 .card {
 	display: inline-block;
-	width: 100%;
+	width: 90%;
 	max-width: 15rem;
 	margin: 1rem;
 	font-size: 1rem;

@@ -68,7 +68,7 @@
                                     projet 1
 ----------------------------------------------------------------------------------- -->
   <div class="card">
-    <a class="card-image" target="_blank" href="http://127.0.0.1:5500/projet/morpion/index.html">
+    <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/morpion/index.html">
     <img  src="./src/image/morpion.png" /></a>
   <div class="project" >
       <h4>Jeu morpion </h4>
@@ -83,7 +83,7 @@
 ----------------------------------------------------------------------------------- -->
 
 <div class="card">
-  <a class="card-image" target="_blank" href="http://127.0.0.1:5500/projet/Drumpad/index.html">
+  <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/Drumpad/index.html">
     <img src="./src/image/drumpad.png" /></a>
 <div class="project">
   <h4><a href="http://127.0.0.1:5500/Drumpad/index.html"> DRUMPAD</a></h4>

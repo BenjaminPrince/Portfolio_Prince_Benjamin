@@ -118,10 +118,10 @@ a.button {
 	display: flex;
 	flex-wrap: wrap;
 }
-/* .page-content .projects-section .project {
+.page-content .projects-section .project {
 	margin-right: 20px;
 	max-width: 195px;
-} */
+}
 .page-content .projects-section .project h4 {
 	margin: 0;
 }
@@ -170,8 +170,8 @@ a.button {
 
 .card img{
 	border-radius: 2px;
-  min-width : 224px;
-  min-height : 224px;
+  min-width: 244px;
+  min-height: 244px;
 }
 
 .projects{

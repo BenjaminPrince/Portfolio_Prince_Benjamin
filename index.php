@@ -43,7 +43,7 @@
 
       <p> Avant d’intégrer un cursus développeur-web , j’ai obtenu un master "Professorat des écoles" à l’Université Claude Bernard,
         Lyon1, ainsi qu'une licence "Lettre/Art du spectacle" à Lyon2.
-        A travers ces cursus j’ai pu gagner en efficacité et en autonomie dans mon travail et acquérir une certaine adaptabilité. <br>
+        A travers ces cursus, j’ai pu gagner en efficacité et en autonomie dans mon travail et acquérir une certaine adaptabilité. <br>
 
         Aujourd'hui je m'épanouis pleinement dans le domaine du web, ma formation me permet d'évoluer en tant que développeur "fullstack",
         je suis toutefois particulièrement ouvert pour découvrir de nouvelles "technos" et à approfondir la partie "frontend",
@@ -97,22 +97,7 @@
       <!-- -----------------------------------------------------------------------------------
                                     projet 3
 ----------------------------------------------------------------------------------- -->
-
-      <div class="card">
-        <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/Allo-cin%C3%A9/Projet-allo-cine-main/index.html">
-          <img src="./src/image/allo-ciné.png" /></a>
-        <div class="project">
-          <h4>Allo-ciné</h4>
-          <p class="description">
-            html,css,javascript.
-          <p class="dates">Dates 2020 - 2021</p>
-        </div>
-      </div>
-      <!-- -----------------------------------------------------------------------------------
-                                    projet 4
------------------------------------------------------------------------------------ -->
-
-      <div class="card">
+ <div class="card">
         <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/Drumpad/index.html">
           <img src="./src/image/drumpad.png" /></a>
         <div class="project">
@@ -122,6 +107,21 @@
           </p>
           <p class="dates">2021</p>
         </div>
+    </div>
+      <!-- -----------------------------------------------------------------------------------
+                                    projet 4
+----------------------------------------------------------------------------------- -->
+ <div class="card">
+        <a class="card-image" target="_blank" href="https://portfolio-benjamin-prince.herokuapp.com/projet/Allo-cin%C3%A9/Projet-allo-cine-main/index.html">
+          <img src="./src/image/allo-ciné.png" /></a>
+        <div class="project">
+          <h4>Allo-ciné</h4>
+          <p class="description">
+            html,css,javascript.
+          <p class="dates">Dates 2020 - 2021</p>
+        </div>
+      </div>
+     
       </div>
     </div>
   </section>

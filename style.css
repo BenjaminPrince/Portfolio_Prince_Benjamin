@@ -170,10 +170,8 @@ a.button {
 
 .card img{
 	border-radius: 2px;
-  /* min-width : 224px; */
-  min-height : 224px;
-  /* object-fit: contain; */
-  overflow: hidden;
+  width : 224px;
+  height : 224px;
 }
 
 .projects{

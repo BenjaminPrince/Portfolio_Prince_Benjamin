@@ -170,6 +170,8 @@ a.button {
 
 .card  img{
 	border-radius: 2px;
+  width : 150px;
+  height : 150px;
 }
 
 .projects{

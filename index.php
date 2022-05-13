@@ -131,18 +131,18 @@
                                     Experiences
 ----------------------------------------------------------------------------------- -->
 
-<h1> Expériences </h1>
+<h1 id="experience"> Expériences </h1>
 
 <div class="wrapper">
   <div class="center-line">
 
-    <a href="#formation" class="scroll-icon"><i class="fas fa-caret-up"></i></a>
+    <a href="#experience" class="scroll-icon"><i class="fas fa-caret-up"></i></a>
   </div>
   <div class="row row-1">
     <section>
       <i class="icon fas fa-home"></i>
       <div class="details">
-        <span id="formation" class="title">Formation développeur-web</span>
+        <span class="title">Formation développeur-web</span>
         <span>2021-2022</span>
       </div>
       <p>Chambre des commerces et de l'industrie de Roanne (CCI)</p>

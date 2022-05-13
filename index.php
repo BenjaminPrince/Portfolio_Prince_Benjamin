@@ -45,8 +45,8 @@
         Lyon1, ainsi qu'une licence "Lettre/Art du spectacle" à Lyon2.
         A travers ces cursus, j’ai pu gagner en efficacité et en autonomie dans mon travail et acquérir une certaine adaptabilité. <br>
 
-        Aujourd'hui je m'épanouis pleinement dans le domaine du web, ma formation me permet d'évoluer en tant que développeur "fullstack",
-        je suis toutefois particulièrement ouvert pour découvrir de nouvelles "technos" et à approfondir la partie "frontend",
+        Aujourd'hui je m'épanouis pleinement dans le domaine du web, ma formation me permet d'évoluer en tant que développeur "fullstack".
+        Je suis toutefois particulièrement ouvert pour découvrir de nouvelles "technos" et à approfondir la partie "frontend",
         qui me permet de faire un lien avec mon attrait pour l'art et ma sensibilité artistique.</p>
 
       </p><br>

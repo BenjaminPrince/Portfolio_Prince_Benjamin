@@ -142,10 +142,10 @@ a.button {
 	margin: 1rem;
 	font-size: 1rem;
 	overflow: hidden;
-	box-shadow: 0 0 2rem -1rem rgba(0, 0, 0, 0.6);
+	box-shadow: 0 0 2rem -1rem rgba(0, 0, 0, 0.4);
 	transition: transform 0.1s , box-shadow 0.1s;
 	background-color: rgb(255,245,238);
-	
+	border-radius: 5px;
 }
 
 .card:hover {

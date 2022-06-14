@@ -146,7 +146,7 @@
 
 <h1 id="experience"> Expériences </h1>
 
-<div class="wrapper">()
+<div class="wrapper">
   <div class="center-line">
 
     <a href="#experience" class="scroll-icon"><i class="fas fa-caret-up"></i></a>

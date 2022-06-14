@@ -64,7 +64,19 @@
     <h1>Projets réalisés</h1>
     <div class="projects">
 
-
+     <!-- -----------------------------------------------------------------------------------
+                                    projet 5
+----------------------------------------------------------------------------------- -->
+<div class="card">
+  <a class="card-image" target="_blank" href="http://bp-grandfroid.projets.simplon-roanne.com">
+    <img src="./src/image/grand froid.JPG" /></a>
+  <div class="project">
+    <h4>Projet Grand Froid</h4>
+    <p class="description">
+      Projet Wordpress/5jours.
+    <p class="dates">Dates 2022</p>
+  </div>
+</div>
       <!-- -----------------------------------------------------------------------------------
                                     projet 1
 ----------------------------------------------------------------------------------- -->
@@ -118,9 +130,10 @@
           <h4>Allo-ciné</h4>
           <p class="description">
             html,css,javascript.
-          <p class="dates">Dates 2020 - 2021</p>
+          <p class="dates">Dates 2021</p>
         </div>
       </div>
+
      
       </div>
     </div>
@@ -133,7 +146,7 @@
 
 <h1 id="experience"> Expériences </h1>
 
-<div class="wrapper">
+<div class="wrapper">()
   <div class="center-line">
 
     <a href="#experience" class="scroll-icon"><i class="fas fa-caret-up"></i></a>

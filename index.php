@@ -73,7 +73,7 @@
   <div class="project">
     <h4>Projet Grand Froid</h4>
     <p class="description">
-      Projet Wordpress/5jours.
+      Projet découverte de Wordpress.
     <p class="dates">Dates 2022</p>
   </div>
 </div>

@@ -70,7 +70,7 @@ nav ul li:hover {
 }
 
 
-.page-content header h1{
+body .page-content .backgroundText header h1{
     margin:0;
     text-transform: uppercase;
     font-family: 'oswald',sans serif;

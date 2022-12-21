@@ -62,11 +62,9 @@ nav ul li:hover {
 }
 
 
-.page-content p{
+body .page-content .backgroundText p{
 	text-align: justify;
 	padding-left: 20px;
-
-	
 }
 
 

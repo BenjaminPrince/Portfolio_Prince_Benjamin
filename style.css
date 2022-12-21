@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&family=Oswald:wght@300&display=swap');
 
-body {
+body .page-content .backgroundText  {
 	font-family: 'Noto Sans JP', sans-serif;
   background-color: var(--bgbody);
 	caret-color: transparent;

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&family=Oswald:wght@300&display=swap');
 
-body .page-content .backgroundText  {
+body {
 	font-family: 'Noto Sans JP', sans-serif;
   background-color: var(--bgbody);
 	caret-color: transparent;
@@ -62,13 +62,15 @@ nav ul li:hover {
 }
 
 
-body .page-content .backgroundText p{
+.page-content p{
 	text-align: justify;
 	padding-left: 20px;
+
+	
 }
 
 
-body .page-content .backgroundText header h1{
+.page-content header h1{
     margin:0;
     text-transform: uppercase;
     font-family: 'oswald',sans serif;

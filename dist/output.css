@@ -51,12 +51,6 @@ html {
 2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
 */
 
-body {
-  margin: 0;
-  /* 1 */
-  line-height: inherit;
-  /* 2 */
-}
 
 /*
 1. Add the correct height in Firefox.
@@ -86,7 +80,8 @@ abbr:where([title]) {
 Remove the default font size and weight for headings.
 */
 
-h1,
+
+
 h2,
 h3,
 h4,
@@ -94,7 +89,7 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
-  padding-left: 6%;
+ 
 }
 
 /*
@@ -314,7 +309,7 @@ hr,
 figure,
 p,
 pre {
-  margin: 0;
+  margin-left: 23px;
 }
 
 fieldset {

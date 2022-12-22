@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&family=Oswald:wght@300&display=swap');
 
 body {
-	font-family: 'Noto Sans JP', sans-serif;
+	font-family:'Noto Sans JP', sans-serif;
   background-color: var(--bgbody);
 	caret-color: transparent;
 }
@@ -19,6 +19,7 @@ nav {
 	position: sticky;
 	top: 0;
   z-index: 999;
+  font-family:'Noto Sans JP', sans-serif;
 }
 nav .profile {
 	display: flex;
@@ -59,21 +60,21 @@ nav ul li:hover {
 	padding-left: 30px;
 	padding-bottom: 10px;
 	padding:30px;
+  font-family:'Noto Sans JP', sans-serif;
 }
 
 
 .page-content .backgroundText p{
 	text-align: justify;
 	padding-left: 20px;
-
-	
+  font-family:'Noto Sans JP', sans-serif;
 }
 
 
 .page-content .backgroundText header h1{
     margin:0;
     text-transform: uppercase;
-    font-family: 'oswald',sans serif;
+    font-family:'Noto Sans JP', sans-serif;
     font-size:5vw;
 }
 

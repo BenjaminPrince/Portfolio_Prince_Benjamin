@@ -201,11 +201,11 @@ html{
   background: #ff7979;
 }
 
-h1 {
+section .xp h1 {
 	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
-	font-size: 4vw;
-  margin-left: 5%;
+	font-size: 3vw;
+  margin-left:2vw ;
 }
 .wrapper{
   max-width: 1080px;

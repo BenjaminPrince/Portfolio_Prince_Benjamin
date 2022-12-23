@@ -91,7 +91,7 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
- 
+
 }
 
 /*
@@ -313,6 +313,7 @@ p,
 pre {
   margin-left: 23px;
   font-family:'Noto Sans JP', sans-serif;
+  font-size:30px;
 }
 
 fieldset {

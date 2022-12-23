@@ -197,9 +197,10 @@ html{
 }
 
 
-h1 {
+section #experience .experience-formation h1 {
 	font-family:'Noto Sans JP', sans-serif;
 }
+
 .wrapper{
   max-width: 1080px;
   margin: 50px auto;

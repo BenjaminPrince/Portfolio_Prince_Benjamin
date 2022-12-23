@@ -310,6 +310,7 @@ figure,
 p,
 pre {
   margin-left: 23px;
+  font-family:'Noto Sans JP', sans-serif;
 }
 
 fieldset {

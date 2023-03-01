@@ -415,12 +415,12 @@ footer .colonne p:hover {
 /* Mode nuit */
 
 html {
-    --bg: rgb(238,238,240);
+    --bg: rgb(238,238,230);
     --text: #222222;
 	--btn:black;
 	--bgbody:rgb(255,245,238);
 	--borderButton:black;
-	--timeline:rgb(238,238,240);
+	--timeline:rgb(238,238,230);
     transition: all 0.3s ease;
 }
 
